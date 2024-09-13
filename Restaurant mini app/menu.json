@@ -1,0 +1,32 @@
+{
+    "appetizers": {
+        "spring-rolls": "90",
+        "french-fries": "90",
+        "garlic-bread": "100"
+    },
+    "main-meals": {
+        "chenje-kabab": "180",
+        "chiken-kabab": "120",
+        "meat-kabab": "140",
+        "pasta-pene": "240",
+        "pasta-alfredo": "250",
+        "burger": "250",
+        "cheese-burger": "260",
+        "pizza-napoli": "320",
+        "pizza-margarita": "310",
+        "pizza-garlic": "330",
+        "pizza-vegeteriana": "300",
+        "ghormeh-sabzi": "250",
+        "gheymeh": "240",
+        "spagetti": "310",
+        "lasagna": "350",
+        "steak": "420",
+        "soup": "110",
+        "pizza": "305"
+    },
+    "drinks": {
+        "soda": "15",
+        "coffee": "40",
+        "water": "10"
+    }
+}
